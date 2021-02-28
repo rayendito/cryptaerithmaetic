@@ -7,12 +7,12 @@ strategi Decrease and Conquer (by a variable size)
 Pastikan versi python yang digunakan mensupport print menggunakan end=''  
 dan pastikan directory sudah dalam susunan sebagai berikut:  
   
-&nbsp;&nbsp;-toocil2.py  
-&nbsp;&nbsp;-test  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-tc1.txt  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-tc2.txt  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-tc3.txt  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-... (dan seterusnya)  
+-toocil2.py  
+-test  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-tc1.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-tc2.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-tc3.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-... (dan seterusnya)  
   
   
 **Above the ground; under the sun,**  

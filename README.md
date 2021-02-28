@@ -1,9 +1,9 @@
-#Tugas Kecil 2 Strategi Algoritma
-##Program ni ngapaen?
+# Tugas Kecil 2 Strategi Algoritma
+## Program ni ngapaen?
 Program panduan pengambilan matkul dengan Topological Sort menggunakan
 strategi Decrease and Conquer (by a variable size)
 
-##Before running:
+## Before running:
 Pastikan versi python yang digunakan mensupport print menggunakan end=''
 dan pastikan directory sudah dalam susunan sebagai berikut:
 -toocil2.py
